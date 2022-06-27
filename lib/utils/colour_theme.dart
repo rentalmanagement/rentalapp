@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 
-const Color yellowColor = Color(0xfffed813); //Yellow
-
 const Color activeCyanColor = Color(0xff0a7c97);
 
 const Color backgroundColor = Color(0xffebecee);
 
 const List<Color> backgroundGradient = [
-  Color.fromARGB(255, 239, 58, 100),
+  Color.fromARGB(255, 244, 60, 103),
   Color.fromARGB(255, 186, 115, 60),
 ]; //Cyan, and a mix of Cyan and Green
 
